@@ -1,5 +1,6 @@
 # Internetradio
-Sammlung der Informationen zum Bau des Internet-Radios nach einem Vorschlag/Bausatz von AZ-Delivery.
+Sammlung der Informationen zum Bau des Internet-Radios nach einem Vorschlag/Bausatz von AZ-Delivery: https://www.az-delivery.de/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi/internet-radio-mit-dem-esp32
+
 
 ## Code
 Folgender Source-Code von Wolf Geldmacher funktioniert bei mir sehr gut. 
